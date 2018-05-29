@@ -1,0 +1,2 @@
+var actionString="http://www.propertyind.com/micrositeSendMail.html"
+var pathname=window.location.pathname;var contextPath=pathname.substring(0,pathname.indexOf("/html"));contextPath="http://www.propertyind.com/bricks/micrositePropertyListing.html?from=submit&searchType=1&ownerId=";
