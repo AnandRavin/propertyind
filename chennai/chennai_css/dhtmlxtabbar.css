@@ -1,0 +1,123 @@
+.dhx_tabbar_zoneV {
+	POSITION: relative
+}
+.dhx_tabbar_zoneVB {
+	POSITION: relative
+}
+.dhx_tabbar_zone .dhx_tablist_zone {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 5px
+}
+.dhx_tabbar_zoneB .dhx_tablist_zone {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 5px
+}
+.dhx_tabbar_zoneV .dhx_tablist_zone {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.dhx_tabbar_zoneVB .dhx_tablist_zone {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: absolute
+}
+.dhx_tabcontent_sub_zone {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; OVERFLOW: auto; WIDTH: 100%; PADDING-TOP: 0px! important; HEIGHT: 100%
+}
+.dhx_tabcontent_zone {
+	OVERFLOW: auto; POSITION: relative; BACKGROUND-COLOR: #f0f8ff
+}
+.dhx_tabbar_zone .dhx_tabcontent_zone {
+	BORDER-RIGHT: #91a7b4 1px solid; BORDER-TOP: #91a7b4 0px solid; BORDER-LEFT: #91a7b4 1px solid; BORDER-BOTTOM: #91a7b4 1px solid
+}
+.dhx_tabbar_zoneB .dhx_tabcontent_zone {
+	BORDER-RIGHT: #91a7b4 1px solid; BORDER-TOP: #91a7b4 1px solid; BORDER-LEFT: #91a7b4 1px solid; BORDER-BOTTOM: #91a7b4 0px solid
+}
+.dhx_tabbar_zoneV .dhx_tabcontent_zone {
+	BORDER-RIGHT: #91a7b4 1px solid; BORDER-TOP: #91a7b4 1px solid; BORDER-LEFT: #91a7b4 0px solid; BORDER-BOTTOM: #91a7b4 1px solid; POSITION: absolute; TOP: 0px
+}
+.dhx_tabbar_zoneVB .dhx_tabcontent_zone {
+	BORDER-RIGHT: #91a7b4 0px solid; BORDER-TOP: #91a7b4 1px solid; LEFT: 0px; BORDER-LEFT: #91a7b4 1px solid; BORDER-BOTTOM: #91a7b4 1px solid; POSITION: absolute; TOP: 0px
+}
+.dhx_tab_element DIV {
+	FONT-SIZE: 8pt; LINE-HEIGHT: 13px; FONT-FAMILY: Tahoma
+}
+.dhx_tabbar_zoneB .dhx_tab_element DIV {
+	BACKGROUND-POSITION: 50% bottom
+}
+.dhx_tabbar_zoneVB .dhx_tab_element DIV {
+	BACKGROUND-POSITION: right 50%
+}
+.dhx_tab_element {
+	FONT-SIZE: 8pt; OVERFLOW: hidden; CURSOR: pointer; FONT-FAMILY: Tahoma; POSITION: absolute; TEXT-ALIGN: center
+}
+.dhx_tabbar_zone .dhx_tab_element {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.dhx_tabbar_zoneB .dhx_tab_element {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.dhx_tabbar_zoneV .dhx_tab_element {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.dhx_tabbar_zoneVB .dhx_tab_element {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.dhx_tab_element_inactive {
+	FONT-WEIGHT: normal; Z-INDEX: 4
+}
+.dhx_tabbar_zone .dhx_tab_element_inactive {
+	MARGIN-TOP: 3px; MARGIN-LEFT: 0px
+}
+.dhx_tabbar_zoneB .dhx_tab_element_inactive {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 0px
+}
+.dhx_tabbar_zoneV .dhx_tab_element_inactive {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 3px
+}
+.dhx_tabbar_zoneVB .dhx_tab_element_inactive {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 0px
+}
+.dhx_tab_element_active {
+	FONT-WEIGHT: bold; Z-INDEX: 6; BACKGROUND-COLOR: #f0f8ff
+}
+.dhx_tabbar_zoneB .dhx_tab_element_active {
+	MARGIN-TOP: 0px
+}
+.dhx_tab_element_disabled {
+	CURSOR: default; COLOR: silver
+}
+.dhx_tabbar_row {
+	OVERFLOW: hidden
+}
+.dhx_tabbar_zone .dhx_tabbar_row {
+	MARGIN-TOP: -5px; POSITION: relative
+}
+.dhx_tabbar_zoneB .dhx_tabbar_row {
+	MARGIN-TOP: -5px; POSITION: relative
+}
+.dhx_tabbar_zoneV .dhx_tabbar_row {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 0px; POSITION: absolute; TOP: 0px
+}
+.dhx_tabbar_zoneVB .dhx_tabbar_row {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 0px; POSITION: absolute; TOP: 0px
+}
+.dhx_tablist_scroll {
+	Z-INDEX: 6; RIGHT: 4px; WIDTH: 32px; CURSOR: pointer; POSITION: absolute; TOP: 5px; HEIGHT: 15px
+}
+.dhx_tabbar_zoneV .dhx_tabbar_row .dhx_tablist_scroll {
+	WIDTH: 15px; HEIGHT: 32px
+}
+.dhx_tabbar_zoneVB .dhx_tabbar_row .dhx_tablist_scroll {
+	WIDTH: 15px; HEIGHT: 32px
+}
+.dhx_tablist_line {
+	Z-INDEX: 5; LEFT: 0px; OVERFLOW: hidden; WIDTH: 100%; POSITION: absolute; HEIGHT: 1px; BACKGROUND-COLOR: #91a7b4
+}
+.dhx_tabbar_zoneB .dhx_tabbar_row .dhx_tablist_line {
+	LEFT: 0px; WIDTH: 100%; HEIGHT: 1px
+}
+.dhx_tabbar_zoneV .dhx_tabbar_row .dhx_tablist_line {
+	WIDTH: 1px; TOP: 0px; HEIGHT: 100%
+}
+.dhx_tabbar_zoneVB .dhx_tabbar_row .dhx_tablist_line {
+	WIDTH: 1px; TOP: 0px; HEIGHT: 100%
+}
+.dhx_ajax_loader {
+	MARGIN-TOP: 20px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; MARGIN-LEFT: 10px; FONT-FAMILY: Arial,Tahoma
+}

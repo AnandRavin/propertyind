@@ -1,0 +1,51 @@
+.gallery1 {
+	HEIGHT: 293px
+}
+.gallery2 {
+	BORDER-RIGHT: #98975e 1px solid; BORDER-TOP: #98975e 1px solid; BORDER-LEFT: #98975e 1px solid; WIDTH: 420px; BORDER-BOTTOM: #98975e 1px solid; POSITION: absolute
+}
+.gallery3 {
+	BORDER-RIGHT: #98975e 1px solid; BORDER-TOP: #98975e 1px solid; MARGIN-TOP: 244px; Z-INDEX: 1; FILTER: progid:DXImageTransform.Microsoft.Alpha(opacity=50); MARGIN-LEFT: 0px; BORDER-LEFT: #98975e 1px solid; WIDTH: 420px; BORDER-BOTTOM: #98975e 1px solid; POSITION: absolute; HEIGHT: 49px; BACKGROUND-COLOR: #ffffff; opacity: .5
+}
+.gallery4 {
+	MARGIN-TOP: 249px; Z-INDEX: 2; POSITION: absolute
+}
+.gallbutton {
+	LEFT: 4px; CURSOR: pointer; POSITION: absolute; TOP: 1px
+}
+.gallery4 .right {
+	LEFT: 405px
+}
+.gallery6 {
+	LEFT: 7px; MARGIN: 0px 20px 0px 22px; OVERFLOW: hidden; WIDTH: 376px; POSITION: absolute; TOP: -2px; HEIGHT: 44px
+}
+#mainImg {
+	WIDTH: 420px; HEIGHT: 240px
+}
+#resaleImg {
+	WIDTH: 250px
+}
+#communityGal .gallery0 #mainImg {
+	WIDTH: 282px; HEIGHT: 211px
+}
+#communityGal {
+	MARGIN: 10px
+}
+#communityGal .gallery1 {
+	HEIGHT: 262px
+}
+#communityGal .gallery1 #mainImg {
+	WIDTH: 278px; HEIGHT: 209px
+}
+#communityGal .gallery3 {
+	MARGIN-TOP: 210px; WIDTH: 278px
+}
+#communityGal .gallery4 {
+	MARGIN-TOP: 214px
+}
+#communityGal .gallery6 {
+	WIDTH: 236px
+}
+#communityGal .gallery4 .right {
+	LEFT: 263px
+}
